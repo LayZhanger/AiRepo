@@ -1,0 +1,2 @@
+StartUp git@github.com:LayZhanger/StartUp.git
+SideHustleResearch git@github.com:LayZhanger/SideHustleResearch.git
