@@ -1,1 +1,6 @@
-
+openclaw https://github.com/openclaw/openclaw.git
+opencode https://github.com/anomalyco/opencode.git
+hermes-agent https://github.com/NousResearch/hermes-agent.git
+browser-use https://github.com/browser-use/browser-use.git
+stagehand https://github.com/browserbase/stagehand.git
+pi  https://github.com/earendil-works/pi.git

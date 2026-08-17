@@ -1,2 +1,5 @@
-StartUp git@github.com:LayZhanger/StartUp.git
-SideHustleResearch git@github.com:LayZhanger/SideHustleResearch.git
+Agent-Common git@github.com:LayZhanger/Agent-Common.git
+SocialAgent git@github.com:LayZhanger/SocialAgent.git
+SearchAgent git@github.com:LayZhanger/SearchAgent.git
+CodeAgent git@github.com:LayZhanger/CodeAgent.git
+GleamAgent git@github.com:LayZhanger/GleamAgent.git
