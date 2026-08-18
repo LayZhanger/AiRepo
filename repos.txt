@@ -1,5 +1,2 @@
-Agent-Common git@github.com:LayZhanger/Agent-Common.git
-SocialAgent git@github.com:LayZhanger/SocialAgent.git
-SearchAgent git@github.com:LayZhanger/SearchAgent.git
-CodeAgent git@github.com:LayZhanger/CodeAgent.git
+AgentForDevice git@github.com:LayZhanger/AgentForDevice.git
 GleamAgent git@github.com:LayZhanger/GleamAgent.git
