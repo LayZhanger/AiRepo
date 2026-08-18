@@ -4,3 +4,4 @@ hermes-agent https://github.com/NousResearch/hermes-agent.git
 browser-use https://github.com/browser-use/browser-use.git
 stagehand https://github.com/browserbase/stagehand.git
 pi  https://github.com/earendil-works/pi.git
+pi-web https://github.com/agegr/pi-web.git
