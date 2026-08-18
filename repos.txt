@@ -1,2 +1,2 @@
-AgentForDevice git@github.com:LayZhanger/AgentForDevice.git
+NativeAgent git@github.com:LayZhanger/NativeAgent.git
 GleamAgent git@github.com:LayZhanger/GleamAgent.git
