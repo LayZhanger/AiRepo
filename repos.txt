@@ -1,2 +1,4 @@
+GradFromScratch git@github.com:LayZhanger/GradFromScratch.git
+P-GradFromScratch git@github.com:LayZhanger/P-GradFromScratch.git
 NativeAgent git@github.com:LayZhanger/NativeAgent.git
 
